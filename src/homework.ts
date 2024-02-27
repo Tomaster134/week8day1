@@ -39,6 +39,3 @@ prices[0] = '$100';
 
 function myFunc(a: number, b: number): number {}
 // A: Says that a number will be returned for the function, but no return is included in the function
-
-
-///////////////////////////////////////////////////////////////////////////////////////////////////////
